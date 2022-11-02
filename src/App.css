@@ -295,4 +295,16 @@ border-radius: 0px;
     color: #000;
     padding: 8px 17px;border-radius: 20px;
 }
+
+.pt-25{padding-top: 25px;}
+.pb-25{padding-bottom: 25px;}
+
 .aboutsection{background-image: url('../public/images/layer.png')}
+
+.aboutsection h3{    background: #ffc107;
+    color: #000;
+    max-width: 298px;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 18px;}
+.aboutsection span i{margin-top: 10px;}

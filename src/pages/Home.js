@@ -19,11 +19,11 @@ export default function Home() {
                     </div>
                 </div>
             </section>
-            <section className='aboutsection'>
+            <section className='aboutsection pt-25 pb-25'>
                <div className='container'>
                 <div className='row'>
-                  <div className='col-md-12'>
-                     
+                  <div className='col-md-6'>
+                     <h3>Fast Execution , Low Latency <span><i class='bx bxs-right-arrow-alt'></i></span></h3>
                   </div>
                 </div>
                </div>
